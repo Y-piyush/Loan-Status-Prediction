@@ -8,7 +8,7 @@ The goal of this project is to develop some ML models to predict whether or not 
   4. Neural Network
 
 # Test Accuracy
-  1. Linear Support Vector Machine= Accuracy on test data :  0.8333333333333334
-  2. Random Forest= Accuracy on test data :  0.8333333333333334
-  3. Neural Network= Accuracy on test data :  0.6875
+  1. Linear Support Vector Machine= Accuracy on test data :  0.834
+  2. Random Forest= Accuracy on test data :  0.834
+  3. Neural Network= Accuracy on test data :  0.688
 
